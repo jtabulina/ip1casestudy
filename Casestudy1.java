@@ -15,10 +15,27 @@ public class Casestudy1 {
     System.out.println("I'm 21 yrs old");
     System.out.println("----------------------------------");
     }
+    //John Emmanuel Tabulina
+    static void method4(){
+            System.out.println("My name is John Emmanuel Tabulina");
+                    }
+    static void method5(){
+    System.out.println("I'm From Lomboy, Lapaz, tarlac");
+    }
+    static void method6(){
+    System.out.println("I'm 20 yrs old");
+    System.out.println("----------------------------------");
+    }
+
+
+
     public static void main(String[] args) {
         method1();
         method2();
         method3();
+        method4();
+        method5();
+        method6();
     }
     
 }
