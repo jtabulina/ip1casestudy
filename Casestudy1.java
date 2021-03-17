@@ -24,7 +24,7 @@ public class Casestudy1 {
     }
     static void method6(){
     System.out.println("I'm 20 yrs old");
-    System.out.println("----------------------------------");
+    System.out.println("----------------------------------0");
     }
 
 
