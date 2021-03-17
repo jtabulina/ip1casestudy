@@ -20,7 +20,7 @@ public class Casestudy1 {
             System.out.println("My name is John Emmanuel Tabulina");
                     }
     static void method5(){
-    System.out.println("I'm From Lomboy, Lapaz, tarlac");
+    System.out.println("I'm From Lomboy, Lapaz, Tarlac");
     }
     static void method6(){
     System.out.println("I'm 20 yrs old");
